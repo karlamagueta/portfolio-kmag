@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@import "./header.css";
+@import "./main.css";
+@import "./formacao.css";
+@import "./footer.css";
+@font-face {
+    font-family: 'Bodoni';
+    src: url('bodoni_2.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Bodoni2';
+    src: url('BODONI-N.TTF') format('ttf');
+}
+body {
+    background-color: #fff;
+    font-family: "barlow";
+    text-decoration: none;
+    list-style: none;
+    margin: 0px;
+
+}
+
+
+
